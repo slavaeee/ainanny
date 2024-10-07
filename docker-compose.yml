@@ -1,4 +1,4 @@
 services:
   ainanny:
-  build: .
-  restart: always
+    build: .
+    restart: always

@@ -1,4 +1,4 @@
 services:
-  ainanny:
+  ainanny-docker-compose:
     build: .
     restart: always
